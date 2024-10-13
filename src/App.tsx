@@ -7,6 +7,7 @@ function App() {
     <>
   <div>SD loves BM  </div>
   <div>{`<3`} </div>
+  <div>Social Login</div>
     </>
   )
 }
